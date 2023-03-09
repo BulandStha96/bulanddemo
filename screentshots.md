@@ -1,0 +1,1 @@
+# OpenWRT Pc status screenshots
