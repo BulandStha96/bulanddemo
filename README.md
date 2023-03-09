@@ -1,2 +1,0 @@
-# bulanddemo
-coit20246
